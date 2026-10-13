@@ -1,4 +1,4 @@
-Invitación Alan & Lore - GitHub Pages
+Invitación Alan & Lore - v10 para GitHub Pages
 
-Sube index.html, .nojekyll y la carpeta assets directamente a la raíz del repositorio.
-Después activa Settings > Pages > Deploy from a branch > main > /root.
+Esta versión separa fotos y música en /assets para que ningún archivo supere el límite de 25 MB de GitHub web.
+No borres el archivo CNAME que ya existe en tu repositorio.
